@@ -1,0 +1,67 @@
+
+body {
+  font-family: Arial, monospace, sans-serif;
+  margin-left: auto ;
+  margin-right: auto ;
+  margin-bottom: 20px ;
+  padding: 10px ;
+  padding-left: 50px ;
+  padding-right: 50px ;
+  min-width: 400px;
+  max-width: 800px;
+  line-height: 1.2;
+  font-size: 11pt;
+  font-weight: 400;
+  background-color: rgb(235,235,235);
+}
+
+
+h1 /* page title */
+{ font-family: Arial, monospace, sans-serif;
+  font-size:   21pt;
+  font-weight: normal;
+}
+
+h2 /* section titles */
+{
+  font-family: Arial, monospace, sans-serif;
+  font-size:      13pt;
+  font-weight:    bold;
+  margin-top:     1.4em;
+  margin-bottom:  0.5em;
+  color:          rgb(50,150,180);
+}
+
+h3 /* section titles */
+{
+  font-family: Arial, monospace, sans-serif;
+  font-size:      11pt;
+  font-weight:    bold;
+  margin-top:     1.4em;
+  margin-bottom:  0.5em;
+}
+
+
+a {text-decoration: none}
+a:link    {color: rgb(70,170,200)}
+a:visited {color: rgb(30,130,160)}
+a:hover   {color: rgb(90,190,220)}
+a:active  {color: rgb(255,0,0)}
+a.black   {color: rgb(0,0,0); font-weight: bold}
+a.pink    {color: rgb(255,0,255)}
+a.pink:visited {color: rgb(255,0,255)}  /* IE bug */
+
+.black    {color: rgb(0,0,0)}
+.blue     {color: rgb(0,64,255)}
+.green    {color: rgb(160,208,0)}
+.grey     {color: rgb(160,160,160)}
+.pink     {color: rgb(255,0,255)}
+
+#text
+{
+  float:       right;
+  width:       80%;
+  clear:       none;
+}
+
+
