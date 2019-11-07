@@ -12,7 +12,7 @@ body {
   line-height: 1.2;
   font-size: 11pt;
   font-weight: 400;
-  background-color: rgb(235,235,235);
+  background-color: rgb(200, 200, 200);
 }
 
 
@@ -63,5 +63,3 @@ a.pink:visited {color: rgb(255,0,255)}  /* IE bug */
   width:       80%;
   clear:       none;
 }
-
-
