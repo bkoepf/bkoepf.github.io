@@ -29,7 +29,7 @@ h2 /* section titles */
   font-weight:    bold;
   margin-top:     1.4em;
   margin-bottom:  0.5em;
-  color:          rgb(50,150,180);
+
 }
 
 h3 /* section titles */
@@ -39,6 +39,8 @@ h3 /* section titles */
   font-weight:    bold;
   margin-top:     1.4em;
   margin-bottom:  0.5em;
+  color:          rgb(50,150,180);
+
 }
 
 
