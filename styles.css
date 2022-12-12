@@ -25,8 +25,8 @@ h1 /* page title */
 h2 /* section titles */
 {
   font-family: Arial, monospace, sans-serif;
-  font-size:      13pt;
-  font-weight:    bold;
+  font-size:      14pt;
+  font-weight:    normal;
   margin-top:     1.4em;
   margin-bottom:  0.5em;
 
@@ -36,7 +36,7 @@ h3 /* section titles */
 {
   font-family: Arial, monospace, sans-serif;
   font-size:      11pt;
-  font-weight:    bold;
+  font-weight:    normal;
   margin-top:     1.4em;
   margin-bottom:  0.5em;
   color:          rgb(50,150,180);
